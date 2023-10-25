@@ -1,2 +1,2 @@
 # ftec_c
-Aula de algoritmos II na faculdade FTEC.
+Repositório da cadeira de algoritmos II na faculdade FTEC.
